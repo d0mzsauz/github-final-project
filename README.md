@@ -1,5 +1,5 @@
 # github-final-project
-GitHib Final Project
+GitHub Final Project
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
